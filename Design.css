@@ -1,10 +1,12 @@
-.card{
+.h-center{
 text-align:center;
-background-color:lightblue;
 }
 .main-heading{
 	color:blue;
 }
 .paragraph{
 	color:grey;
+}
+.card{
+	background-color:lightblue;
 }
