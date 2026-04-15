@@ -1,6 +1,3 @@
-.h-center{
-text-align:center;
-}
 .main-heading{
 	color:blue;
 }
@@ -9,4 +6,6 @@ text-align:center;
 }
 .card{
 	background-color:#add8e6;
+	text-align:center;
+	height:450px;
 }
