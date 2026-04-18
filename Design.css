@@ -12,11 +12,19 @@
 .card{
 	text-align:center;
 	background-color:white;
+	border-top-left-radius:25px;
+	border-top-right-radius:25px;
+	padding:5px;
 }
 .button{
 	height:40px;
 	width:100px;
 	background-color:#25b1cc;
+	color:white;
+	border-radius:40px;
+}
+.button-green{
+	background-color:green;
 	color:white;
 	border-radius:40px;
 }
