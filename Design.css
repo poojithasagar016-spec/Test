@@ -9,7 +9,7 @@
 	background-image: url("https://www.tripsavvy.com/thmb/S8-082iu4rYSPWJ9wgxxd0OKa-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tripsavvy_oceanbeach_sf2-4b896ba06cfe4beeb262033f29c1a6e7.jpg");
 	background-size:cover;
 }
-.card{
+.custom_card{
 	text-align:center;
 	background-color:white;
 	border-top-left-radius:25px;
