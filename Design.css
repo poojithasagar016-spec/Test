@@ -6,7 +6,7 @@
 }
 .bg-container{
 	height:100vh;
-	background-image: url("https://tourism.telangana.gov.in/storage/app/media/rammappa.webp")
+	background-image: url("https://tourism.telangana.gov.in/storage/app/media/rammappa.webp");
 	background-size:cover;
 }
 .card{
