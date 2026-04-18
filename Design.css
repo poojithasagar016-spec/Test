@@ -4,8 +4,12 @@
 .paragraph{
 	color:grey;
 }
+.bg-container{
+	height:100vh;
+	background-image: url("https://www.un.org/sites/un2.un.org/files/styles/large-article-image-style-16-9/public/field/image/taleb_rifai_crop.jpg")
+	background-size:cover;
+}
 .card{
 	text-align:center;
-	height:100vh;
-	background-image: url("https://thumbs.dreamstime.com/z/sunrise-over-beach-cancun-beautiful-mexico-40065727.jpg?ct=jpeg")
+	background-color:white;
 }
