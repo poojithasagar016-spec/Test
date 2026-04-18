@@ -6,7 +6,7 @@
 }
 .bg-container{
 	height:100vh;
-	background-image: url("https://tourism.telangana.gov.in/storage/app/media/rammappa.webp");
+	background-image: url("https://www.tripsavvy.com/thmb/S8-082iu4rYSPWJ9wgxxd0OKa-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/tripsavvy_oceanbeach_sf2-4b896ba06cfe4beeb262033f29c1a6e7.jpg");
 	background-size:cover;
 }
 .card{
@@ -16,4 +16,7 @@
 .button{
 	height:10px;
 	width:20px;
+	background-color:#25b1cc;
+	color:white
+	border-radius:25px;
 }
