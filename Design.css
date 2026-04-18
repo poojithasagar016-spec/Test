@@ -15,8 +15,8 @@
 }
 .button{
 	height:40px;
-	width:40px;
+	width:100px;
 	background-color:#25b1cc;
 	color:white
-	border-radius:25px;
+	border-radius:20px;
 }
