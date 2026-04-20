@@ -34,3 +34,44 @@
 	border-radius:40px;
 	
 }
+
+.favt-place-bg-container{
+	background-image:url("https://w0.peakpx.com/wallpaper/1004/644/HD-wallpaper-mahadev-new-aesthetic-nature-hindu-god-bhakti.jpg");
+	height:100vh;
+	background-size:cover;
+
+}
+.Favourite-places-heading{
+
+	font-size:28px;
+	font-family:'Roboto';
+	font-weight:bold;
+	padding:5px;
+	text-align:right;
+	color:#2c4722;
+	
+}
+.fav-card-container{
+	background-color:white;
+	border-radius:8px;
+		padding:15px;
+		margin: 12px;
+	
+}
+.fav-heading{
+	font-family:'Roboto';
+	padding:15px;
+	border-radius:8px;
+	
+}
+.des{
+	font-family:'Roboto';
+	padding:15px;
+	color:grey;
+}
+.kashi{
+	height:30vh;
+	width:30vw;
+	
+	
+}
